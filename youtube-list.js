@@ -6,7 +6,7 @@
       super();
       this._maxResult = 5;
       this._CID = 'UCK2ACorzpH-igxuHZ2ObCEA';
-      this.API_Key = 'AIzaSyBO4TgJyYO9alXDedywryO44Pi5109QGEk';
+      this.API_Key = '';
     }
 
     connectedCallback() {
