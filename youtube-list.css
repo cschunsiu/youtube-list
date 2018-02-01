@@ -1,0 +1,26 @@
+#content{
+  box-shadow: 0 3px 10px 0;
+  margin: 15px 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  height: 100%;
+}
+
+.content-D{
+  display: flex;
+  flex-direction: column;
+}
+
+.word{
+  word-wrap:break-word;
+}
+
+#container{
+  max-width: 100%;
+  width: 700px;
+  height: 150px;
+  max-height: 100%;
+}
